@@ -35,3 +35,4 @@ git merge nomdelabranche // réunir les deux branches et ainsi créer un nouveau
 # Une fois que votre branche a été merge (s'en assurer), vous pouvez la supprimer :
 
 git branch -d nomdelabranche // supprime la branche déjà merge (qui ne sert donc plus).
+test
